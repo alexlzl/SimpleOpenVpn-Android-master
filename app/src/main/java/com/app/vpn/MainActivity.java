@@ -140,7 +140,7 @@ public class MainActivity extends VPNActivity {
                 loadVpnProfile(data);
                 getVpnProfile().mName = "vpn";
 
-                setAccountAndPassword("123", "456");
+                setAccountAndPassword("user1", "rj0T6ID62j");
                 connectVpn();
             }
         });
